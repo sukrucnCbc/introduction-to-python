@@ -1,6 +1,8 @@
 # CV APPLICATION
 #Create 5 dictionaries. Each dictionary should represent a CV.
 #Create a CV con the information of the 5 created people.
+
+
 person_1 = {'name':'Delilah',
  'surname':'Wehner',
  'age':'23',
@@ -39,6 +41,6 @@ person_5 = {'name':'Shakira',
 #Print the information on CVs created on the screen.
 personList =[person_1, person_2, person_3, person_4, person_5]
 for index in personList:
-    print (f"--------------------------------------------\nName: {index['name']},\n Surname: {index['surname']},\n Age: {index['age']},\n Edutation History: {index['educationHistory']},\n JobTitle: {index['jobTitle']},\n Employement History: {index['EmployementHistory']}\n--------------------------------------------",end=" ")
-    
+    print (f"Name: {index['name']},\n Surname: {index['surname']},\n Age: {index['age']},\n Edutation History: {index['educationHistory']},\n JobTitle: {index['jobTitle']},\n Employement History: {index['EmployementHistory']}\n",end=" ")
+    print("----------------------------------------------------------------")
 
