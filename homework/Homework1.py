@@ -13,10 +13,10 @@ for x in (mergedList):
 
 
 
-print(f"Tek sayıları içeren liste: {oddList}")
-print(f"Çift sayıarı içeren liste: {evenList}")
-print(f"Birleştirilmiş ve indexleri 2 ile çarplılmış yeni liste: {multpList}")
-print("Yeni listenin indexlerinin veri tipleri; ")
+print(f'Tek sayıları içeren liste: {oddList}')
+print(f'Çift sayıarı içeren liste: {evenList}')
+print(f'Birleştirilmiş ve indexleri 2 ile çarplılmış yeni liste: {multpList}')
+print('Yeni listenin indexlerinin veri tipleri; ')
 
 
 #Use a loop to print data type of the all values in the new list.

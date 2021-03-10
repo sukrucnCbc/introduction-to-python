@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="images/tobb.png" height=170px >
-    <img src="images/logo.png" height=200px>
+<div align='center'>
+  <img src='images/tobb.png' height=170px >
+    <img src='images/logo.png' height=200px>
 
-  <img src="images/tobb2.png" height=170px >
+  <img src='images/tobb2.png' height=170px >
 
 </div>
 
