@@ -53,7 +53,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Introduction to Pandas
 
 ## Certificate
-![](images/certifi.png)
+![](https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/1602495330228.png)
 
 
 
